@@ -1,5 +1,5 @@
 # 😁 Olá me chamo Ruan Luca
-**`Desenvolvedor Front-end`**
+**`Desenvolvedor Back-end`**
 
 Me chamo Ruan Luca tenho 18 anos e fiz ensino medio tecnico em ADM na sociedade beneficente israelita Albert Einstein. Atualmente estou cursando Análise e Desenvolvimento de Sistemas na FIAP. <br> 
   Email: ruanlfc@gmail.com
